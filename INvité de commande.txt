@@ -1,0 +1,5 @@
+INvité de commande 
+cd coure-c
+git add -A 
+git commit -m "ui"
+git push
